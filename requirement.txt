@@ -1,0 +1,11 @@
+streamlit==1.38.0
+pandas==2.2.3
+langchain==0.3.0
+langchain-huggingface==0.1.0
+langchain_community==0.3.0
+faiss-cpu==1.8.0
+python-dotenv==1.0.1
+streamlit-extras==0.4.7
+openpyxl==3.1.5
+huggingface_hub==0.24.6
+sentence-transformers==3.0.1
